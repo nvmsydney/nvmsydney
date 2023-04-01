@@ -3,6 +3,6 @@
   <li>🌱 Computer Science and Psychology student in VA
   <li>💬 Seeking a SWE internship for Summer 2024
   <li>⚡ Learning Operating Systems & Theory of Computation
-  <li>📝 Currently working on a Confessions Discord Bot and Blogging App
+  <li>📝 Currently working on a Discord Bot and Translator App!
   <li>🐱 Ask me about my dog and cat!
  </ul>
