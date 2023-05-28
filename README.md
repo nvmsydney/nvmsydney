@@ -2,7 +2,7 @@
 <ul>
   <li>🌱 Computer Science and Psychology student in VA
   <li>📝 Currently working on a Discord Bot and Meal Prep app!
-  <li>⚡ Learning SQL and Spring
+  <li>⚡ Learning Spring at the moment!
   <li>💬 Seeking a SWE internship for Summer 2024
   <li>🐱 Ask me about my dog and cat!
  </ul>
