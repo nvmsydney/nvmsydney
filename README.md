@@ -1,9 +1,9 @@
 <h1 align="center">I'm Sydney! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="30px"></h1>
 <ul>
-  <li>🌱 Computer Science and Psychology student in VA
-  <li>📝 Currently working on a Discord Bot and Meal Prep app!
-  <li>⚡ Learning Spring at the moment!
-  <li>💬 Seeking a SWE internship for Summer 2024
+  <li>🌱 Software Engineer Intern @ CCI, incoming Summer 2024 @ Sam's Club
+  <li>📝 Computer Science and Psychology student @ VCU
+  <li>⚡ Learning Spring, JavaScript, and React at the moment!
+  <li>💬 Currently working on: portfolio website, automated newsletter, Discord bot
   <li>🐱 Ask me about my dog and cat!
  </ul>
 
