@@ -1,6 +1,6 @@
 <h1 align="center">I'm Sydney! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="30px"></h1>
 <ul>
-  <li>🌱 Software Engineer Intern @ CCI, incoming Summer 2024 @ Sam's Club
+  <li>🌱 Incoming Summer 2024 SWE Intern @ Sam's Club
   <li>📝 Computer Science and Psychology student @ VCU
   <li>⚡ Learning Spring, JavaScript, and React at the moment!
   <li>💬 Currently working on: portfolio website, automated newsletter, Discord bot
